@@ -9,6 +9,9 @@ func loadCisConfigParams() map[string]v3.CisConfigParams {
 		"default": {
 			BenchmarkVersion: "rke-cis-1.4",
 		},
+		"v1.16": {
+			BenchmarkVersion: "cis-1.4",
+		},
 		"v1.15": {
 			BenchmarkVersion: "rke-cis-1.4",
 		},
