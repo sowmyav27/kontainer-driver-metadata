@@ -3617,6 +3617,9 @@
   },
   "v1.15": {
    "benchmarkVersion": "rke-cis-1.4"
+  },
+  "v1.16": {
+   "benchmarkVersion": "cis-1.4"
   }
  },
  "CisBenchmarkVersionInfo": {
